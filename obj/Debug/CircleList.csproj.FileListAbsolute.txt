@@ -1,0 +1,7 @@
+C:\Users\eduar\source\repos\CircleList\CircleList\bin\Debug\CircleList.exe.config
+C:\Users\eduar\source\repos\CircleList\CircleList\bin\Debug\CircleList.exe
+C:\Users\eduar\source\repos\CircleList\CircleList\bin\Debug\CircleList.pdb
+C:\Users\eduar\source\repos\CircleList\CircleList\obj\Debug\CircleList.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\CircleList\CircleList\obj\Debug\CircleList.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\CircleList\CircleList\obj\Debug\CircleList.exe
+C:\Users\eduar\source\repos\CircleList\CircleList\obj\Debug\CircleList.pdb
